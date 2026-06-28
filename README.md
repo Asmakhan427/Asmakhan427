@@ -12,12 +12,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/asmakhan427">
+<a href="https://github.com/Asmakhan427">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=asmakhan427&style=for-the-badge&color=0047AB&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Asmakhan427&style=for-the-badge&color=0047AB&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -133,13 +133,13 @@ I actively participate in hackathons and programming competitions to strengthen 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=asmakhan427&show_icons=true&theme=github_dark&hide_border=true&title_color=3B82F6&icon_color=2563EB&text_color=FFFFFF&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmakhan427&show_icons=true&theme=github_dark&hide_border=true&title_color=3B82F6&icon_color=2563EB&text_color=FFFFFF&bg_color=0D1117"/>
 
-<img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=asmakhan427&theme=github-dark-blue&hide_border=true&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&background=0D1117&stroke=2563EB"/>
+<img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Asmakhan427&theme=github-dark-blue&hide_border=true&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&background=0D1117&stroke=2563EB"/>
 
 <br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmakhan427&layout=compact&theme=github_dark&hide_border=true&title_color=3B82F6&text_color=FFFFFF&bg_color=0D1117"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmakhan427&layout=compact&theme=github_dark&hide_border=true&title_color=3B82F6&text_color=FFFFFF&bg_color=0D1117"/>
 
 </div>
 
@@ -156,7 +156,7 @@ I actively participate in hackathons and programming competitions to strengthen 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/asmakhan427">
+<a href="https://github.com/Asmakhan427">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
