@@ -31,62 +31,68 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
+---
+
 ## ◈ Tech Arsenal
 
 <div align="center">
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql"/>
 </p>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![NASM](https://img.shields.io/badge/NASM-000080?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-000080?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-191970?style=flat-square)
+![Oracle%2011g](https://img.shields.io/badge/Oracle_11g-0047AB?style=flat-square)
 
 ---
 
-### AI & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 </p>
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Machine%20Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat-square)
 
 ---
 
-### Web Development
+### 🌐 Web Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap"/>
 </p>
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
 ---
 
-### Databases
+### 🗄️ Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
-### Tools & Platforms
+### 🛠️ Tools & Technologies
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 </div>
+
 ---
 
 ##  Featured Projects
