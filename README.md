@@ -153,4 +153,3 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:000080,100:0047AB&height=120&section=footer"/>
