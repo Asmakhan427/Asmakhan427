@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000080,50:191970,100:0047AB&text=Asma%20Khan&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Machine%20Learning%20|%20Competitive%20Programmer&descAlignY=62"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0047AB&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development;Competitive+Programming;Hackathon+Winner"/>
 
