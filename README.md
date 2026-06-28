@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3A8A,50:2563EB,100:3B82F6&text=Asma%20Khan&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Competitive%20Programmer&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3A8A,50:2563EB,100:#000080&text=Asma%20Khan&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Competitive%20Programmer&descAlignY=62"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=BS+Computer+Science+Student+at+FAST+University;Artificial+Intelligence+%7C+Machine+Learning;Competitive+Programmer+%7C+ICPC+Regionalist;Hackathon+Winner;Full+Stack+Developer;Always+Learning+New+Technologies"/>
 
