@@ -31,7 +31,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-## ◈ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
