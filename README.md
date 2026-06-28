@@ -189,3 +189,131 @@ Outside academics, I actively participate in hackathons, coding competitions, an
 | 🛣️ **Pathfinding Visualizer**          | Interactive visualization of BFS, DFS, UCS, DLS, IDDFS and Bidirectional Search         |
 
 ---
+# 🏅 Competitive Programming & Hackathons
+
+I enjoy solving challenging algorithmic problems and participating in programming competitions that strengthen my problem-solving skills and teamwork.
+
+| Competition                   | Achievement                                                  |
+| ----------------------------- | ------------------------------------------------------------ |
+| 🏆 FrostByte Hackathon        | Winner – Built an AI-powered Heart Disease Prediction System |
+| 💻 ICPC Asia Regional         | Qualified for Round 2 (Top 200 Teams)                        |
+| 🧩 Harvard Puzzle Day 2025    | Team Leader – Solved all 10/10 puzzles                       |
+| 🌍 International Hackathons   | Participated in 5+ global hackathons on Devpost              |
+| 🎯 CALICO Programming Contest | Ranked among the Top 30% participants                        |
+| 💡 LeetCode                   | Solved 50+ coding problems across multiple topics            |
+
+---
+
+# 📚 Current Learning Journey
+
+I'm continuously expanding my knowledge in modern software development and Artificial Intelligence.
+
+* 🤖 Machine Learning & Deep Learning
+* 🧠 Explainable AI (XAI)
+* 📊 Data Science & Predictive Analytics
+* 🏗️ Software Architecture & Design Patterns
+* ☁️ Cloud Computing
+* 🐧 Linux & Operating Systems
+* ⚡ Competitive Programming
+* 🌐 Full-Stack Web Development
+
+---
+
+# 📜 Certifications & Academic Highlights
+
+* 🎓 Honhaar Scholarship (2024–2028)
+* ⭐ Merit-Based Scholarship (Top 5% Academic Performance)
+* 💻 ICPC Regional Programming Contest Participant
+* 🏆 FrostByte Hackathon Winner
+* 🧩 Harvard Puzzle Day Winner
+* 🌍 International Hackathon Participant
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💡 Programming Languages
+
+```text
+C++          ██████████████████████ 95%
+
+Python       ████████████████████   90%
+
+JavaScript   █████████████████      80%
+
+C            ████████████████       75%
+
+SQL          ██████████████         70%
+
+Assembly     ███████████            60%
+```
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Strengthen Machine Learning expertise
+* ✅ Publish AI research projects
+* ✅ Solve 300+ LeetCode problems
+* ✅ Contribute to Open Source
+* ✅ Participate in International Hackathons
+* ✅ Earn AI & Cloud certifications
+* ✅ Build scalable full-stack AI applications
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:asmakh1052@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 *"Code. Learn. Build. Repeat."*
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:38BDF8&height=120&section=footer"/>
