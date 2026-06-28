@@ -27,7 +27,7 @@
 ---
 ## 👩‍💻 About Me
 
-I'm **Asma Khan**, a Computer Science undergraduate at **FAST – National University of Computer & Emerging Sciences (FAST-NUCES), Pakistan**.
+I'm Computer Science undergraduate at **FAST – National University of Computer & Emerging Sciences (FAST-NUCES), Pakistan**.
 
 I enjoy building intelligent software using **Artificial Intelligence, Machine Learning, Software Engineering, and Full-Stack Development**. My interests include solving algorithmic problems, participating in hackathons, and developing practical solutions that address real-world challenges.
 
