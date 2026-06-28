@@ -40,8 +40,8 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 ---
 
 ## Frontend Development Intern
-**CodeAlpha**  
-**July 2025 – August 2025**
+**Deimos Tech**  
+**June 2026 – Present**
 
 - Developed responsive websites using HTML, CSS and JavaScript
 - Built interactive web applications including an Image Gallery and Calculator
@@ -58,41 +58,22 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 - Designed marketing materials using Canva
 
 ---
-#  Technical Skills
+## 💻 Technical Skills
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mysql"/>
+<img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NASM-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle-1E3A8A?style=for-the-badge"/>
+
 </p>
-
-### AI & Data Science
-
-- TensorFlow
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap"/>
-</p>
-
-### Databases
-
-- Oracle 11g XE
-- MySQL
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-- MATLAB 
-- Arduino IDE 
-- Canva
 
 #  Featured AI & Systems Projects
 
