@@ -58,7 +58,7 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 - Designed marketing materials using Canva
 
 ---
-# 💻 Technical Skills
+#  Technical Skills
 
 ### Languages
 
@@ -94,7 +94,7 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 - Arduino IDE 
 - Canva
 
-# 🚀 Featured AI & Systems Projects
+#  Featured AI & Systems Projects
 
 | Project | Description |
 |---------|-------------|
@@ -102,7 +102,7 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 | 🎮 **Atari Breakout (x86 Assembly)** | Recreation of the classic Atari Breakout game developed entirely in x86 Assembly (NASM). |
 | 🧠 **Neural Assembly Pattern Learning** | Interactive simulation implementing the Assembly Calculus framework for biologically inspired visual pattern learning. |
 
-# 🌍 Hackathons & Programming Competitions
+#  Hackathons & Programming Competitions
 
 I actively participate in hackathons and programming competitions to strengthen my problem-solving, teamwork, and software development skills while gaining hands-on experience in building real-world AI solutions.
 
@@ -114,7 +114,7 @@ I actively participate in hackathons and programming competitions to strengthen 
 | 🌍 **International Hackathons** | Participated in **5+ international hackathons**, competing against **3,000+ developers** on Devpost. |
 | 🎯 **CALICO Programming Contest (UC Berkeley)** | Ranked among the **Top 30%** of over **800 participants**. |
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
