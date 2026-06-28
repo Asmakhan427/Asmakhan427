@@ -31,7 +31,6 @@ I'm **Asma Khan**, a Computer Science undergraduate at **FAST – National Unive
 
 I enjoy building intelligent software using **Artificial Intelligence, Machine Learning, Software Engineering, and Full-Stack Development**. My interests include solving algorithmic problems, participating in hackathons, and developing practical solutions that address real-world challenges.
 
-Currently, I'm expanding my expertise in AI, software engineering, and competitive programming through academic projects, research, and international hackathons.
 
 # 💼 Experience
 
@@ -147,6 +146,7 @@ I actively participate in hackathons and programming competitions to strengthen 
 
 </div>
 ---
+
 # 🤝 Let's Connect
 
 <div align="center">
