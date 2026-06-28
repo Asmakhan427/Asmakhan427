@@ -27,7 +27,7 @@
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
 Hi, I'm **Asma Khan**, a Computer Science undergraduate at **FAST National University of Computer & Emerging Sciences (FAST-NUCES), Faisalabad**.
 
@@ -47,20 +47,20 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 
 ---
 
-# 🏆 Highlights
+#  Highlights
 
-- 🥇 Winner — **FrostByte Hackathon 2026**
-- 💻 Qualified for **ICPC Asia Regional Programming Contest (Round 2)**
-- 🧩 Winner — **Harvard Puzzle Day**
-- 🌍 Participated in **5+ International Hackathons**
-- 🎓 Recipient of the **Honhaar Scholarship (2024–2028)**
-- ⭐ Merit Scholarship Recipient (Top 5% Academic Performance)
-- 🚀 Solved **50+ LeetCode Problems**
-- 🎯 Ranked among the **Top 30%** in UC Berkeley CALICO Programming Contest
+-  Winner — **FrostByte Hackathon 2026**
+-  Qualified for **ICPC Asia Regional Programming Contest (Round 2)**
+-  Winner — **Harvard Puzzle Day**
+-  Participated in **5+ International Hackathons**
+-  Recipient of the **Honhaar Scholarship (2024–2028)**
+-  Merit Scholarship Recipient (Top 5% Academic Performance)
+-  Solved **50+ LeetCode Problems**
+-  Ranked among the **Top 30%** in UC Berkeley CALICO Programming Contest
 
 ---
 
-# 🎓 Education
+#  Education
 
 ### FAST National University of Computer & Emerging Sciences (FAST-NUCES)
 
@@ -72,7 +72,7 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 
 ---
 
-# 💼 Experience
+#  Experience
 
 ## Development Co-Lead
 
@@ -108,7 +108,7 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ## Programming Languages
 
@@ -179,37 +179,20 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 
 ---
 
-# 🏅 Achievements
+#  Achievements
 
 | Achievement | Details |
 |-------------|---------|
-| 🥇 FrostByte Hackathon Winner | Developed an AI-powered Heart Disease Prediction System |
-| 💻 ICPC Asia Regional Programming Contest | Qualified for Round 2 (Top 200 Teams) |
-| 🧩 Harvard Puzzle Day | Led a team that successfully solved all 10/10 puzzles |
-| 🌍 International Hackathons | Participated in 5+ global hackathons on Devpost |
-| 🎓 Honhaar Scholarship | Fully funded merit scholarship (2024–2028) |
-| ⭐ Merit Scholarship | Awarded for maintaining Top 5% academic performance |
-| 🎯 UC Berkeley CALICO | Ranked among the Top 30% participants |
-| 💡 LeetCode | Solved 50+ algorithmic programming problems |
+| - FrostByte Hackathon Winner | Developed an AI-powered Heart Disease Prediction System |
+| - ICPC Asia Regional Programming Contest | Qualified for Round 2 (Top 200 Teams) |
+| - Harvard Puzzle Day | Led a team that successfully solved all 10/10 puzzles |
+| - International Hackathons | Participated in 5+ global hackathons on Devpost |
+| - Honhaar Scholarship | Fully funded merit scholarship (2024–2028) |
+| - Merit Scholarship | Awarded for maintaining Top 5% academic performance |
+| - UC Berkeley CALICO | Ranked among the Top 30% participants |
+| - LeetCode | Solved 50+ algorithmic programming problems |
 
 ---
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📌 Currently Exploring
 
 - 🤖 Artificial Intelligence & Machine Learning
@@ -237,10 +220,6 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
