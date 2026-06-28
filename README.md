@@ -32,34 +32,7 @@
 Hi, I'm **Asma Khan**, a Computer Science undergraduate at **FAST National University of Computer & Emerging Sciences (FAST-NUCES), Faisalabad**.
 
 I enjoy building intelligent software systems that combine **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, and **Full-Stack Development** to solve real-world problems.
-
-My technical interests include:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Software Engineering
-- 🧠 Data Structures & Algorithms
-- 🏆 Competitive Programming
-- 🌐 Full-Stack Web Development
-- ⚙️ Operating Systems
-- 🔬 Computer Vision & Intelligent Systems
-
-Beyond academics, I actively participate in hackathons, programming contests, and hands-on development projects to continuously improve my technical and problem-solving skills.
-
 ---
-
-#  Highlights
-
--  Winner — **FrostByte Hackathon 2026**
--  Qualified for **ICPC Asia Regional Programming Contest (Round 2)**
--  Winner — **Harvard Puzzle Day**
--  Participated in **5+ International Hackathons**
--  Recipient of the **Honhaar Scholarship (2024–2028)**
--  Merit Scholarship Recipient (Top 5% Academic Performance)
--  Solved **50+ LeetCode Problems**
--  Ranked among the **Top 30%** in UC Berkeley CALICO Programming Contest
-
----
-
 #  Education
 
 ### FAST National University of Computer & Emerging Sciences (FAST-NUCES)
@@ -123,12 +96,10 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 </p>
-
 - Scikit-Learn
 - Pandas
 - NumPy
 - Matplotlib
-
 ---
 
 ## Web Development
@@ -136,7 +107,6 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap"/>
 </p>
-
 ---
 
 ## Databases
@@ -144,7 +114,6 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
-
 - Oracle 11g XE
 
 ---
@@ -154,28 +123,15 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
+- MATLAB          - Arduino IDE             - Canva
 
-- MATLAB
-- Arduino IDE
-- Canva
-
----
-# 🚀 Featured Projects
+# 🚀 Featured Hackathon Projects
 
 | Project | Description |
 |---------|-------------|
-| ❤️ **CardioGuard AI** | Machine learning-based heart disease prediction system using clinical health data and predictive analytics. |
-| 🧠 **EEG Seizure Detection** | Explainable AI system for seizure detection using Wavelet Transform and Ensemble Learning techniques. |
-| 🩺 **Stroke Detection System** | Deep learning-based Computer-Aided Diagnosis (CAD) system using CNNs and Grad-CAM for brain CT analysis. |
-| ❤️ **MedAssist AI** | AI-powered healthcare platform developed using Oracle 11g, Node.js, Express.js, and Python. |
-| 🏦 **Concurrent Banking System** | Multi-threaded banking simulation demonstrating operating system concepts including scheduling, synchronization, IPC, memory management, and deadlock avoidance. |
-| 🎮 **Atari Breakout (Assembly)** | Classic Atari Breakout game recreated in x86 Assembly (NASM) with real-time graphics and collision detection. |
-| 👑 **Stronghold Strategy Game** | Console-based medieval kingdom simulation built using Object-Oriented Programming principles in C++. |
-| 🧩 **Sudoku AI Solver** | Constraint Satisfaction Problem (CSP) solver using AC-3, MRV, Forward Checking, and Backtracking. |
-| 📑 **Automated Exam Management System** | AI-powered examination management system utilizing K-Means clustering for optimized seating allocation. |
-| 🤖 **Wumpus World Agent** | Knowledge-based intelligent agent using propositional logic and inference techniques. |
-| 🚚 **Intelligent Urban Delivery Robot** | AI-based delivery robot simulation implementing classical search algorithms for navigation. |
-| 🛣️ **Pathfinding Visualizer** | Interactive visualization of BFS, DFS, UCS, DLS, IDDFS, Bidirectional Search, A*, and Greedy Best-First Search algorithms. |
+| ❤️ **CardioGuard AI** | AI-powered heart disease prediction system developed for the **FrostByte Hackathon**, using machine learning to analyze clinical health data and predict cardiovascular risk. |
+| 🎮 **Atari Breakout (x86 Assembly)** | A recreation of the classic Atari Breakout game built entirely in **x86 Assembly (NASM)**, featuring collision detection, scoring, real-time gameplay, and sound effects. |
+| 🧠 **Neural Assembly Pattern Learning** | Interactive AI simulation implementing the **Assembly Calculus** framework to model how neural assemblies learn and recognize visual patterns through biologically inspired computation. |
 
 ---
 
